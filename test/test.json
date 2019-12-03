@@ -1,0 +1,16 @@
+{
+    "entries": [
+        {
+            "name": "test1",
+            "int-value": 2
+        },
+        {
+            "name": "test1",
+            "int-value": 2
+        },
+        {
+            "name": "test1",
+            "int-value": 2
+        }
+    ]
+}

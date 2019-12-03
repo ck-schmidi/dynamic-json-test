@@ -1,0 +1,4 @@
+github.com/icza/dyno v0.0.0-20180601094105-0c96289f9585 h1:kWQPgPrzV4M6ntaGzqU/tI9/OdntSFA9Y9ft/wlDpy0=
+github.com/icza/dyno v0.0.0-20180601094105-0c96289f9585/go.mod h1:FOWDLyFiAsx5UmipjsBYguvps42mgph4nRPwuci95qM=
+github.com/valyala/fastjson v1.4.1 h1:hrltpHpIpkaxll8QltMU8c3QZ5+qIiCL8yKqPFJI/yE=
+github.com/valyala/fastjson v1.4.1/go.mod h1:nV6MsjxL2IMJQUoHDIrjEI7oLyeqK6aBD7EFWPsvP8o=
