@@ -42,7 +42,7 @@ func main() {
 	fmt.Printf("splitted up:\n")
 	for _, entry := range entries {
 		fmt.Printf("- %v\n", entry)
-		// and get
+		// and get some values by a key
 		for _, key := range []string{"int-value", "name"} {
 			value, err := dyno.Get(entry, key)
 			if err != nil {
